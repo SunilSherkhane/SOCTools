@@ -1,6 +1,8 @@
 # SOCTools
 Selected SOC tools for new aspirants.
 
+The script is for the Debian OS
+
 Suricata: Suricata is an Intrusion Detection and Prevention System (IDS/IPS) that monitors network traffic for malicious activities and provides real-time alerts. It supports high-speed packet processing, signature-based detection, and protocol analysis.
 
 OSSEC: OSSEC is a host-based Intrusion Detection System (HIDS) that monitors logs, file integrity, rootkit detection, and policy violations on individual systems. It provides centralized logging and real-time alerts for detecting and responding to security incidents.
